@@ -2,12 +2,7 @@
 
 Sources for the freeCodeCamp article written about "How Engineers Get Promoted"
 
-- https://copyconstruct.medium.com/know-how-your-org-works-or-how-to-become-a-more-effective-engineer-1a3287d1f58d
-- https://www.progression.fyi/
-- https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f
-- https://copyconstruct.medium.com/know-how-your-org-works-or-how-to-become-a-more-effective-engineer-1a3287d1f58d
-- https://charity.wtf/2021/03/07/know-your-one-job-and-do-it-first/
-- https://charity.wtf/2021/03/09/know-your-one-job-continued/
+
 - https://noidea.dog/glue
 - https://sijinjoseph.netlify.app/programmer-competency-matrix/
 - https://www.google.com/search?q=software+engineer+compotency+matrix&rlz=1C1CHBF_en-GBGB964GB964&oq=software+engineer+compotency+matrix&aqs=chrome..69i57j0i13j0i22i30l3.4576j1j1&sourceid=chrome&ie=UTF-8
@@ -134,3 +129,15 @@ https://www.progression.fyi/f/jorge-fioranelli
 https://www.progression.fyi/f/chuck-groom
 https://www.progression.fyi/f/brad-fults
 
+
+# Collection of career progression matrices
+- https://www.progression.fyi/
+
+# Opinion piece on career progression
+- [Cindy Sridharan: know how your org works (or how to become a more effective engineer)](https://copyconstruct.medium.com/know-how-your-org-works-or-how-to-become-a-more-effective-engineer-1a3287d1f58d)
+- https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f
+
+- https://charity.wtf/2021/03/07/know-your-one-job-and-do-it-first/
+- https://charity.wtf/2021/03/09/know-your-one-job-continued/
+
+# Career progression matrix from an established company
