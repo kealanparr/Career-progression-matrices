@@ -2,10 +2,8 @@
 
 Sources for the freeCodeCamp article written about "How Engineers Get Promoted"
 
-
-- https://noidea.dog/glue
-- https://sijinjoseph.netlify.app/programmer-competency-matrix/
-- https://www.google.com/search?q=software+engineer+compotency+matrix&rlz=1C1CHBF_en-GBGB964GB964&oq=software+engineer+compotency+matrix&aqs=chrome..69i57j0i13j0i22i30l3.4576j1j1&sourceid=chrome&ie=UTF-8
+- https://docs.google.com/spreadsheets/d/1Qj2FTqKsuHPqnMyDNUFKi-RiiCU77EWuQwVODS4lS18/edit#gid=1772650517
+- https://geshan.com.np/blog/2017/06/software-companies-tech-competency-matrix/ 
 - https://docs.google.com/spreadsheets/d/131XZCEb8LoXqy79WWrhCX4sBnGhCM1nAIz4feFZJsEo/edit#gid=0
 - http://www.dahlan.id/files/ebooks/SWECOM.pdf
 - https://maximgorbatyuk.gitbook.io/knowledge-base/management/2019-09-08-developer-skill-matrix
@@ -69,65 +67,12 @@ Sources for the freeCodeCamp article written about "How Engineers Get Promoted"
 
 
 
-https://www.progression.fyi/f/brandwatch
-https://www.progression.fyi/f/farewill
-https://www.progression.fyi/f/meetup
-https://www.progression.fyi/f/ockam
-https://www.progression.fyi/f/ope
-https://www.progression.fyi/f/dxw
-https://www.progression.fyi/f/accurx
-https://www.progression.fyi/f/zendesk
-https://www.progression.fyi/f/monzo
-https://www.progression.fyi/f/songkick
-https://www.progression.fyi/f/patreon
-https://www.progression.fyi/f/red-hat
-https://www.progression.fyi/f/progression
-https://www.progression.fyi/f/proton-ai
-https://www.progression.fyi/f/spotify
-https://www.progression.fyi/f/square
-https://www.progression.fyi/f/redgate-software
-https://www.progression.fyi/f/rent-the-runway
-https://www.progression.fyi/f/urban-airship
-https://www.progression.fyi/f/wetransfer
-https://www.progression.fyi/f/wise
-https://www.progression.fyi/f/inviqa
-https://www.progression.fyi/f/khan-academy
-https://www.progression.fyi/f/liefery
-https://www.progression.fyi/f/kickstarter
-https://www.progression.fyi/f/lyst
-https://www.progression.fyi/f/medium
-https://www.progression.fyi/f/marshmallow
-https://www.progression.fyi/f/intercom
-https://www.progression.fyi/f/intent-media
-https://www.progression.fyi/f/gusto
-https://www.progression.fyi/f/gitlab
-https://www.progression.fyi/f/iwoca
-https://www.progression.fyi/f/gov-uk
-https://www.progression.fyi/f/etsy
-https://www.progression.fyi/f/fog-creek
-https://www.progression.fyi/f/clearleft
-https://www.progression.fyi/f/circle-ci
-https://www.progression.fyi/f/financial-times
-https://www.progression.fyi/f/dropbox
-https://www.progression.fyi/f/envato
-https://www.progression.fyi/f/envoy
-https://www.progression.fyi/f/cleo
-https://www.progression.fyi/f/carta
-https://www.progression.fyi/f/construx
-https://www.progression.fyi/f/charlie-hr
-https://www.progression.fyi/f/artsy
-https://www.progression.fyi/f/buffer
-https://www.progression.fyi/f/attest
-https://www.progression.fyi/f/blendle
-https://www.progression.fyi/f/basecamp
-https://www.progression.fyi/f/blinkist
-https://www.progression.fyi/f/apptension
-https://www.progression.fyi/f/8th-light
 
-https://www.progression.fyi/f/sarah-drasner
-https://www.progression.fyi/f/jorge-fioranelli
-https://www.progression.fyi/f/chuck-groom
-https://www.progression.fyi/f/brad-fults
+
+
+
+
+
 
 
 # Collection of career progression matrices
@@ -136,10 +81,60 @@ https://www.progression.fyi/f/brad-fults
 # Opinion piece on career progression
 - [Cindy Sridharan: know how your org works (or how to become a more effective engineer)](https://copyconstruct.medium.com/know-how-your-org-works-or-how-to-become-a-more-effective-engineer-1a3287d1f58d)
 - [Edmond Lau: the effective engineer](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f)
+- [Tanya Reilly: Being Glue](https://noidea.dog/glue)
+- [Charity Majors - KNOW YOUR “ONE JOB” AND DO IT FIRST](https://charity.wtf/2021/03/07/know-your-one-job-and-do-it-first/) and [KNOW YOUR “ONE JOB”, CONTINUED](https://charity.wtf/2021/03/09/know-your-one-job-continued/)
 
+# Career progression matrix from companies
+- [Brandwatch Compotency Matrix](https://www.progression.fyi/f/brandwatch)
+- [Farewill Compotency Matrix](https://www.progression.fyi/f/farewill)
+- [Meetup Compotency Matrix](https://www.progression.fyi/f/meetup)
+- [Ockam Compotency Matrix](https://www.progression.fyi/f/ockam)
+- [accuRx Compotency Matrix](https://www.progression.fyi/f/accurx)
+- [Monzo Compotency Matrix](https://www.progression.fyi/f/monzo)
+- [songkick Compotency Matrix](https://www.progression.fyi/f/songkick)
+- [Patreon Compotency Matrix](https://www.progression.fyi/f/patreon)
+- [RedHat Compotency Matrix](https://www.progression.fyi/f/red-hat)
+- [Progression Compotency Matrix](https://www.progression.fyi/f/progression)
+- [Proton AI](https://www.progression.fyi/f/proton-ai)
+- [Redgate Software](https://www.progression.fyi/f/redgate-software)
+- [Rent The Runway](https://www.progression.fyi/f/rent-the-runway)
+- [Urban Airship](https://www.progression.fyi/f/urban-airship)
+- [Khan Academy](https://www.progression.fyi/f/khan-academy)
+- [Intent Media](https://www.progression.fyi/f/intent-media)
+- [8th Light](https://www.progression.fyi/f/8th-light)
+- [Charlie HR](https://www.progression.fyi/f/charlie-hr)
+- [Circle CI](https://www.progression.fyi/f/circle-ci)
+- [Financial Times](https://www.progression.fyi/f/financial-times)
+- [Fog Creek](https://www.progression.fyi/f/fog-creek)
+- [Spotify](https://www.progression.fyi/f/spotify)
+- [Square](https://www.progression.fyi/f/square)
+- [WeTransfer](https://www.progression.fyi/f/wetransfer)
+- [Inviqa](https://www.progression.fyi/f/inviqa)
+- [Liefery](https://www.progression.fyi/f/liefery)
+- [Kickstarter](https://www.progression.fyi/f/kickstarter)
+- [Medium](https://www.progression.fyi/f/medium)
+- [Gitlab](https://www.progression.fyi/f/gitlab)
+- [GOV.UK](https://www.progression.fyi/f/gov-uk)
+- [Etsy](https://www.progression.fyi/f/etsy)
+- [Clearleft](https://www.progression.fyi/f/clearleft)
+- [Dropbox](https://www.progression.fyi/f/dropbox)
+- [Envato](https://www.progression.fyi/f/envato)
+- [Envoy](https://www.progression.fyi/f/envoy)
+- [Cleo](https://www.progression.fyi/f/cleo)
+- [Carta](https://www.progression.fyi/f/carta)
+- [Construx](https://www.progression.fyi/f/construx)
+- [Artsy](https://www.progression.fyi/f/artsy)
+- [Buffer](https://www.progression.fyi/f/buffer)
+- [Attest](https://www.progression.fyi/f/attest)
+- [Blendle](https://www.progression.fyi/f/blendle)
+- [Blinkist](https://www.progression.fyi/f/blinkist)
+- [Apptension](https://www.progression.fyi/f/apptension)
 
-
-- https://charity.wtf/2021/03/07/know-your-one-job-and-do-it-first/
-- https://charity.wtf/2021/03/09/know-your-one-job-continued/
-
-# Career progression matrix from an established company
+# Career progression matrix from individuals
+- [Sarah Drasner's Career Laddering](https://www.progression.fyi/f/sarah-drasner)
+- [Programmer Competency Matrix by Sijin Joseph](https://sijinjoseph.netlify.app/programmer-competency-matrix/)
+- [Jorge Fioranelli: Engineering Ladder](https://www.progression.fyi/f/jorge-fioranelli)
+- [Chuck Groom Software Engineer Job Ladder](https://www.progression.fyi/f/chuck-groom)
+- [Brad Fults Software Engineering Levelling Matrix](https://www.progression.fyi/f/brad-fults)
+- [Open Competency Matrix](https://docs.google.com/spreadsheets/d/1Qj2FTqKsuHPqnMyDNUFKi-RiiCU77EWuQwVODS4lS18/edit#gid=1772650517)
+- [Geshan Compotency Matrix](https://docs.google.com/spreadsheets/d/1uDx5RG8k7Oxl6REGPgZIG-qqCNfn3E8WwczPPyoWvSA/edit#gid=0)
