@@ -135,7 +135,9 @@ https://www.progression.fyi/f/brad-fults
 
 # Opinion piece on career progression
 - [Cindy Sridharan: know how your org works (or how to become a more effective engineer)](https://copyconstruct.medium.com/know-how-your-org-works-or-how-to-become-a-more-effective-engineer-1a3287d1f58d)
-- https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f
+- [Edmond Lau: the effective engineer](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f)
+
+
 
 - https://charity.wtf/2021/03/07/know-your-one-job-and-do-it-first/
 - https://charity.wtf/2021/03/09/know-your-one-job-continued/
