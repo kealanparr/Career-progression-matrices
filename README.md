@@ -1,6 +1,6 @@
 # Career-progression-matrices
 
-Sources for the freeCodeCamp article written about "How Engineers Get Promoted"
+Sources for the [Developer-Forge](https://developer-forge.com/posts/matrices/) article written about "Career Progression Matrices"
 
 # Opinion pieces on career progression
 - [Cindy Sridharan: know how your org works (or how to become a more effective engineer)](https://copyconstruct.medium.com/know-how-your-org-works-or-how-to-become-a-more-effective-engineer-1a3287d1f58d)
